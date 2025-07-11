@@ -19,8 +19,8 @@ body {
 }
 
 .btn {
-    background-color: rgba(78, 71, 255, 1);
     padding: 12px 36px;
+    background-color: rgba(78, 71, 255, 1);
     color: #FFFFFF;
     border-style: none;
     border-radius: 10px;
@@ -226,6 +226,7 @@ nav {
 }
 
 .msg {
+    width: 158px;
     padding: 20px 200px 80px 30px;
     border-color: rgba(214, 221, 237, 1);
     border-radius: 10px;
@@ -241,8 +242,12 @@ label {
 }
 
 .f-btn {
+    background-color: rgba(78, 71, 255, 1);
+    color: #FFFFFF;
+    border-style: none;
+    border-radius: 10px;
     text-align: center;
-    padding: 17px 153px ;
+    padding: 17px 157px ;
 }
 /* footer style  */
 
