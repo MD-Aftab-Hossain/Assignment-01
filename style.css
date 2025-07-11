@@ -24,6 +24,7 @@ body {
     color: #FFFFFF;
     border-style: none;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .btn:hover {
@@ -247,8 +248,14 @@ label {
     border-style: none;
     border-radius: 10px;
     text-align: center;
-    padding: 17px 157px ;
+    padding: 17px 157px;
+    cursor: pointer;
 }
+
+.f-btn:hover {
+    background-color: bisque;
+}
+
 /* footer style  */
 
 .ft-sec {
@@ -283,4 +290,8 @@ label {
 .ft-sec a {
     text-decoration: none;
     color: #8987A1;
+}
+
+a:hover {
+    background-color: bisque;
 }
