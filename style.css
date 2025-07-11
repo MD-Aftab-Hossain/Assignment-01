@@ -3,6 +3,7 @@
     font-family: "Raleway", sans-serif;
     /* 100-thin ,200-ex.light ,300-light ,400-regular 
     500-med ,600-semibold ,700-bold ,800-ex.bold ,900-black */
+    max-width: 1270px;
 }
 
 body {
